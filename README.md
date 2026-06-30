@@ -2,8 +2,6 @@
 
 A Python CLI pipeline that ingests messy candidate data from **multiple sources**, normalizes and merges it into a single **canonical profile**, then **projects** that profile to any output schema via runtime configuration.
 
-Built for the Eightfold Engineering Intern project.
-
 ---
 
 ## Architecture
@@ -148,21 +146,3 @@ Supported `on_missing` values: `null`, `omit`, `error`.
 ```bash
 pytest -v
 ```
-
----
-
-## Demo Video Checklist
-
-For your ~2 min submission video, show:
-
-1. End-to-end CLI run on sample inputs
-2. Default canonical JSON output
-3. Custom config output (`configs/hr_view.json`)
-4. One design decision (e.g., canonical vs projection separation)
-5. One edge case (e.g., garbage phone → null, not crash)
-
----
-
-## License
-
-MIT — free to use for interview submission.

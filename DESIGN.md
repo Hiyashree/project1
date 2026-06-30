@@ -1,7 +1,7 @@
-# One-Page Technical Design (export to PDF for submission)
+# Technical Design
 
 **Project:** Multi-Source Candidate Data Transformer  
-**Author:** [Your Full Name] | [Your Email]
+**Author:** HIYASHREE SARMA | hiyasarma90@gmail.com
 
 ---
 
@@ -48,7 +48,3 @@ Internal `CanonicalProfile` is never mutated by config. A projection layer maps 
 ## Descoped
 
 Live GitHub/LinkedIn APIs, batch entity resolution, ML resume parsing, web UI.
-
----
-
-*Export this file to PDF: `<YourFullName>_<YourEmail>_Eightfold.pdf`*

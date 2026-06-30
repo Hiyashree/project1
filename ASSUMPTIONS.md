@@ -20,12 +20,11 @@
 | Unknown skill names | Title-cased, not dropped |
 | Required field missing in custom config | `null` (default), `omit`, or `error` per config |
 
-## Descoped (time constraints)
+## Descoped
 
 - Real-time GitHub/LinkedIn API integrations
 - Fuzzy candidate matching across batches (entity resolution)
 - Web UI
-- PDF design document (Step 1 — create separately)
 - ML-based resume parsing
 
 ## Features Included
