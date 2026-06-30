@@ -1,5 +1,7 @@
 # Multi-Source Candidate Data Transformer
 
+**Author:** HIYASHREE SARMA · hiyasarma90@gmail.com
+
 A Python CLI pipeline that ingests messy candidate data from **multiple sources**, normalizes and merges it into a single **canonical profile**, then **projects** that profile to any output schema via runtime configuration.
 
 ---

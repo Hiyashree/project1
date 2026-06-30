@@ -1,5 +1,7 @@
 # Assumptions & Descoped Features
 
+**Author:** HIYASHREE SARMA · hiyasarma90@gmail.com
+
 ## Assumptions
 
 1. **Single candidate per run** — The CLI merges all provided sources into one profile. Batch CSV processing can be added by looping in a wrapper script.

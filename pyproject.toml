@@ -8,6 +8,9 @@ version = "1.0.0"
 description = "Multi-source candidate data transformer"
 readme = "README.md"
 requires-python = ">=3.10"
+authors = [
+    { name = "HIYASHREE SARMA", email = "hiyasarma90@gmail.com" }
+]
 dependencies = [
     "phonenumbers>=8.13.0",
     "pypdf>=4.0.0",
