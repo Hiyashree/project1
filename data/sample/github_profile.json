@@ -1,0 +1,9 @@
+{
+  "login": "alexrivera-dev",
+  "name": "Alex Rivera",
+  "bio": "Backend engineer. Payments, infra, and developer tools.",
+  "location": "San Francisco, CA",
+  "html_url": "https://github.com/alexrivera-dev",
+  "blog": "https://alexrivera.dev",
+  "top_languages": ["Python", "Go", "JavaScript", "Shell"]
+}

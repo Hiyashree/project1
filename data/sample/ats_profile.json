@@ -1,0 +1,44 @@
+{
+  "applicantId": "CAND-001",
+  "displayName": "Alex Rivera",
+  "contactInfo": {
+    "emailAddress": "alex.rivera@workmail.io",
+    "mobile": "+1-415-555-0198"
+  },
+  "professionalSummary": "Backend engineer specializing in distributed systems and payments infrastructure.",
+  "location": {
+    "city": "San Francisco",
+    "state": "CA",
+    "countryCode": "US"
+  },
+  "totalYearsExperience": 7.5,
+  "workHistory": [
+    {
+      "employer": "Stripe",
+      "role": "Senior Software Engineer",
+      "startDate": "2021-03",
+      "endDate": "present",
+      "description": "Led payment routing microservices and observability rollout."
+    },
+    {
+      "employer": "Square",
+      "role": "Software Engineer",
+      "startDate": "2018-06",
+      "endDate": "2021-02",
+      "description": "Built merchant onboarding APIs."
+    }
+  ],
+  "educationHistory": [
+    {
+      "school": "UC Berkeley",
+      "degree": "B.S. Computer Science",
+      "major": "Computer Science",
+      "graduationYear": 2018
+    }
+  ],
+  "skillTags": ["Python", "Go", "PostgreSQL", "AWS", "Docker", "REST APIs"],
+  "socialProfiles": {
+    "linkedIn": "https://linkedin.com/in/alexrivera",
+    "github": "https://github.com/alexrivera-dev"
+  }
+}

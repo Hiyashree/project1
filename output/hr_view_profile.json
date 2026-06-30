@@ -1,0 +1,22 @@
+{
+  "full_name": "Alex Rivera",
+  "primary_email": "alex.rivera@email.com",
+  "phone": "+14155550198",
+  "skills": [
+    "Amazon Web Services",
+    "Docker",
+    "Go",
+    "PostgreSQL",
+    "Python",
+    "REST APIs",
+    "Kubernetes",
+    "Experience",
+    "JavaScript",
+    "Machine Learning",
+    "Mar 2021 - Present",
+    "Stripe  Senior Software Engineer"
+  ],
+  "years_experience": 7.5,
+  "current_company": "Stripe",
+  "_confidence": 0.753
+}

@@ -1,0 +1,27 @@
+Alex Rivera
+Senior Software Engineer | Distributed Systems
+
+San Francisco, CA, US
+alex.rivera@email.com | (415) 555-0198
+https://github.com/alexrivera-dev
+https://linkedin.com/in/alexrivera
+
+SUMMARY
+Backend engineer with 7+ years of experience building scalable payment systems.
+
+SKILLS
+Python, JavaScript, PostgreSQL, AWS, Kubernetes, Docker, Machine Learning, REST APIs
+
+EXPERIENCE
+Stripe — Senior Software Engineer
+Mar 2021 - Present
+Led payment routing microservices and observability rollout across 3 regions.
+
+Square — Software Engineer
+Jun 2018 - Feb 2021
+Built merchant onboarding APIs handling 50k daily requests.
+
+EDUCATION
+UC Berkeley
+B.S. Computer Science
+2018

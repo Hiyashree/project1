@@ -1,0 +1,2 @@
+candidate_id,name,email,phone,current_company,title,location,skills,linkedin,github
+CAND-001,Alex Rivera,alex.rivera@email.com,(415) 555-0198,Stripe,Senior Software Engineer,"San Francisco, CA, US","Python, PostgreSQL, AWS, Kubernetes",https://linkedin.com/in/alexrivera,https://github.com/alexrivera-dev

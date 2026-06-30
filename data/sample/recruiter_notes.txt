@@ -1,0 +1,14 @@
+Candidate: Alex Rivera
+Role: Senior Software Engineer (Backend / Payments)
+
+Spoke with Alex on 2026-05-12. Strong communicator, very interested in infra-heavy roles.
+Email on file: alex.rivera@email.com
+
+Notes:
+- ~7 years experience, mostly backend
+- Skills: python, kubernetes, postgres, aws
+- Currently at Stripe, open to remote
+- GitHub looks active — mostly Go and Python repos
+- Would be a good fit for platform or payments teams
+
+Follow-up: send take-home if team approves.

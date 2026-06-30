@@ -1,0 +1,267 @@
+{
+  "candidate_id": "CAND-001",
+  "full_name": "Alex Rivera",
+  "emails": [
+    "alex.rivera@email.com",
+    "alex.rivera@workmail.io"
+  ],
+  "phones": [
+    "+14155550198"
+  ],
+  "location": {
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "US"
+  },
+  "links": {
+    "linkedin": "https://linkedin.com/in/alexrivera",
+    "github": "https://github.com/alexrivera-dev",
+    "portfolio": null,
+    "other": []
+  },
+  "headline": "Senior Software Engineer",
+  "years_experience": 7.5,
+  "skills": [
+    {
+      "name": "Amazon Web Services",
+      "confidence": 0.748,
+      "sources": [
+        "recruiter_csv",
+        "ats_json",
+        "resume",
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Docker",
+      "confidence": 0.748,
+      "sources": [
+        "ats_json",
+        "resume"
+      ]
+    },
+    {
+      "name": "Go",
+      "confidence": 0.748,
+      "sources": [
+        "ats_json"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "confidence": 0.748,
+      "sources": [
+        "recruiter_csv",
+        "ats_json",
+        "resume",
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": 0.748,
+      "sources": [
+        "recruiter_csv",
+        "ats_json",
+        "resume",
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "confidence": 0.748,
+      "sources": [
+        "ats_json",
+        "resume"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "confidence": 0.7360000000000001,
+      "sources": [
+        "recruiter_csv",
+        "resume",
+        "recruiter_notes"
+      ]
+    },
+    {
+      "name": "Experience",
+      "confidence": 0.44999999999999996,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "confidence": 0.44999999999999996,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "confidence": 0.44999999999999996,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Mar 2021 - Present",
+      "confidence": 0.44999999999999996,
+      "sources": [
+        "resume"
+      ]
+    },
+    {
+      "name": "Stripe  Senior Software Engineer",
+      "confidence": 0.44999999999999996,
+      "sources": [
+        "resume"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Stripe",
+      "title": "Senior Software Engineer",
+      "start": null,
+      "end": null,
+      "summary": null
+    },
+    {
+      "company": "Square",
+      "title": "Software Engineer",
+      "start": "2018-06",
+      "end": "2021-02",
+      "summary": "Built merchant onboarding APIs."
+    },
+    {
+      "company": "SKILLS",
+      "title": "Python, JavaScript, PostgreSQL, AWS, Kubernetes, Docker, Machine Learning, REST APIs",
+      "start": null,
+      "end": null,
+      "summary": null
+    },
+    {
+      "company": "EXPERIENCE",
+      "title": "Stripe — Senior Software Engineer",
+      "start": "2021-03",
+      "end": "2026-06",
+      "summary": "Mar 2021 - Present Led payment routing microservices and observability rollout across 3 regions."
+    }
+  ],
+  "education": [
+    {
+      "institution": "UC Berkeley",
+      "degree": "B.S. Computer Science",
+      "field": "Computer Science",
+      "end_year": 2018
+    }
+  ],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "headline",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "years_experience",
+      "source": "ats_json",
+      "method": "ats_field_map"
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "phones",
+      "source": "recruiter_csv",
+      "method": "phone_e164_normalize"
+    },
+    {
+      "field": "location",
+      "source": "ats_json",
+      "method": "ats_field_map"
+    },
+    {
+      "field": "links",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "skills",
+      "source": "multi",
+      "method": "skill_merge_dedupe"
+    },
+    {
+      "field": "experience",
+      "source": "multi",
+      "method": "experience_merge_dedupe"
+    },
+    {
+      "field": "education",
+      "source": "multi",
+      "method": "education_merge_dedupe"
+    }
+  ],
+  "overall_confidence": 0.753,
+  "_confidence": 0.753,
+  "_provenance": [
+    {
+      "field": "full_name",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "headline",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "years_experience",
+      "source": "ats_json",
+      "method": "ats_field_map"
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "phones",
+      "source": "recruiter_csv",
+      "method": "phone_e164_normalize"
+    },
+    {
+      "field": "location",
+      "source": "ats_json",
+      "method": "ats_field_map"
+    },
+    {
+      "field": "links",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "skills",
+      "source": "multi",
+      "method": "skill_merge_dedupe"
+    },
+    {
+      "field": "experience",
+      "source": "multi",
+      "method": "experience_merge_dedupe"
+    },
+    {
+      "field": "education",
+      "source": "multi",
+      "method": "education_merge_dedupe"
+    }
+  ]
+}
