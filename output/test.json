@@ -1,0 +1,149 @@
+{
+  "candidate_id": "CAND-001",
+  "full_name": "Alex Rivera",
+  "emails": [
+    "alex.rivera@email.com"
+  ],
+  "phones": [
+    "+14155550198"
+  ],
+  "location": {
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "US"
+  },
+  "links": {
+    "linkedin": "https://linkedin.com/in/alexrivera",
+    "github": "https://github.com/alexrivera-dev",
+    "portfolio": null,
+    "other": []
+  },
+  "headline": "Senior Software Engineer",
+  "years_experience": null,
+  "skills": [
+    {
+      "name": "Amazon Web Services",
+      "confidence": 0.7360000000000001,
+      "sources": [
+        "recruiter_csv"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "confidence": 0.7360000000000001,
+      "sources": [
+        "recruiter_csv"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "confidence": 0.7360000000000001,
+      "sources": [
+        "recruiter_csv"
+      ]
+    },
+    {
+      "name": "Python",
+      "confidence": 0.7360000000000001,
+      "sources": [
+        "recruiter_csv"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Stripe",
+      "title": "Senior Software Engineer",
+      "start": null,
+      "end": null,
+      "summary": null
+    }
+  ],
+  "education": null,
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "headline",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "phones",
+      "source": "recruiter_csv",
+      "method": "phone_e164_normalize"
+    },
+    {
+      "field": "location",
+      "source": "recruiter_csv",
+      "method": "location_parse"
+    },
+    {
+      "field": "links",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "skills",
+      "source": "multi",
+      "method": "skill_merge_dedupe"
+    },
+    {
+      "field": "experience",
+      "source": "multi",
+      "method": "experience_merge_dedupe"
+    }
+  ],
+  "overall_confidence": 0.781,
+  "_confidence": 0.781,
+  "_provenance": [
+    {
+      "field": "full_name",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "headline",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "emails",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "phones",
+      "source": "recruiter_csv",
+      "method": "phone_e164_normalize"
+    },
+    {
+      "field": "location",
+      "source": "recruiter_csv",
+      "method": "location_parse"
+    },
+    {
+      "field": "links",
+      "source": "recruiter_csv",
+      "method": "csv_column_map"
+    },
+    {
+      "field": "skills",
+      "source": "multi",
+      "method": "skill_merge_dedupe"
+    },
+    {
+      "field": "experience",
+      "source": "multi",
+      "method": "experience_merge_dedupe"
+    }
+  ]
+}
